@@ -21,6 +21,7 @@ I am now #aligned ✅
 
 [Paste the explorer link here you copied earlier from your terminal]
 ```
+![image](https://github.com/AnasAli30/aligned-testnet/assets/133592141/4b683f27-0c4b-43bd-a0f4-0a7f194bf52b)
 
 
 - Then join Aligned layer Discord :  [Discord Link](http://discord.gg/alignedlayer)
